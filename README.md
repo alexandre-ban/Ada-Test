@@ -44,3 +44,6 @@ Após o Cypress abrir um novo navegador, escolher a opção "Create new Spec", s
 No arquivo criado no VS Code colocar o código do teste.
 
 Para rodar o teste, no navegador aberto pelo browser, selecionar o arquivo criado
+
+Caminho do código
+- Branches > master > cypress > e2e > ada.spec.cy.js
